@@ -25,11 +25,13 @@ This dashboard provides a detailed analysis of Adventure Works’ sales, revenue
 * **Table (Product Orders & Return Rate)**: Lists best-selling products like Water Bottles and Patch Kits, while also monitoring return rates.
 * **Map (Orders by Country/Continent)**: Visualizes geographical distribution, with North America being the top contributor.
 * **Date Slicer & Filters**: Allow detailed analysis across time range and continents.
+
 **Page 2: Targets & Trends**
 * **Gauge Charts (Revenue, Orders, Returns)**: Compare actuals against targets, showing revenue ahead of goal but orders slightly lagging.
 * **Line Chart (Total Profit Over Time)**: Displays steady growth in profit with a strong upward trend after mid-2016.
 * **Line Chart (Total Revenue Over Time)**: Shows rising revenue, with forecast indicating continued growth.
 * **Area Chart (Total Returns Over Time)**: Highlights gradual increase in product returns, requiring deeper quality checks.
+
 **Page 3: Customer & Demographics Insights**
 * **Table (Customer Orders & Revenue)**: Lists top customers contributing significantly to total revenue.
 * **Donut Chart (Orders by Gender)**: Shows a nearly equal split between male and female customers.
