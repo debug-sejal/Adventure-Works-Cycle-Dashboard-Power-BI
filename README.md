@@ -49,6 +49,6 @@ This dashboard provides a detailed analysis of Adventure Works’ sales, revenue
 * Improved overall decision-making for product and market expansion.
   
 ## 8. Screenshot
-This is How Dashboard looks like: page 1 - (https://github.com/debug-sejal/Adventure-Works-Cycle-Dashboard-Power-BI/blob/main/Adventure%20Cycle-1.png)
-page 2 - (https://github.com/debug-sejal/Adventure-Works-Cycle-Dashboard-Power-BI/blob/main/Adventure%20Cycle-2.png)
-page 3 - (https://github.com/debug-sejal/Adventure-Works-Cycle-Dashboard-Power-BI/blob/main/Adventure%20Cycle-3.png)
+This is How Dashboard looks like: page 1 - Adventure Cycle-1.png
+page 2 - Adventure Cycle-2.png
+page 3 - Adventure Cycle-3.png
